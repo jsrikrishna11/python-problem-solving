@@ -23,7 +23,7 @@ def simple(a):
 
 #solution without division operator
 '''
-    
+    we will create two 
 '''
 def complicated(a):
     return
